@@ -7,6 +7,7 @@ function my_theme_enqueue_styles() {
     $parent_style = 'parent-style'; // This is 'twentyfifteen-style' for the Twenty Fifteen theme.
 
     wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
+    wp_enqueue_script( 'child_scripts', get_theme_file_uri().'/assets/js/child-scripts.js', '', '1.0', true);
     wp_enqueue_style( 'child-style',
         get_stylesheet_directory_uri() . '/style.css',
         array( $parent_style ),
@@ -66,6 +67,15 @@ function facultyMenu_func( $atts ) {
 	echo $result;
 }
 add_shortcode( 'facultyMenu', 'facultyMenu_func' );
+//[titleiMenu]
+function titleiMenu_func( $atts ) {
+	$content = file_get_contents(get_theme_file_uri() . '/mega-menu-dropdowns/titlei.php');
+	$divStripped = preg_replace("/<\/?div[^>]*\>/i", "", $content);
+	$result = str_ireplace(array('<h3>','</h3>'),array('<h2>','</h2>'),$divStripped);
+
+	echo $result;
+}
+add_shortcode( 'titleiMenu', 'titleiMenu_func' );
 /*==========================================================================================
 Custom Excerpt
 ============================================================================================*/

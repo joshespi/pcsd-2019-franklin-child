@@ -17,11 +17,9 @@
 					wp_reset_query();
 				?>
 			<section class="calendar-agenda">
-				<h1>Today’s Events</h1>
-				<img src="<?php echo get_theme_file_uri(); ?>/a-dummycalendar.png" />
-				
-				<?php echo do_shortcode('[calendar id="42982"]'); ?>
-				<a href="https://timpviewbeta.provo.edu/about-timpview/all-events-calendar/">View All Events Calendar</a>
+				<h1>Today’s Events</h1>				
+				<?php echo do_shortcode('[calendar id="172"]'); ?>
+				<a href="<?php echo get_home_url(); ?>/all-events-calendar/">View All Events Calendar</a>
 			</section>
 			<section>
 				<h1>Parent Resources</h1>
@@ -35,28 +33,15 @@
 					<li>
 						<a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-directory/">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/find-your-teacher.svg" alt="" />
-							<span>Classroom Pages</span>
+							<span>Classrooms</span>
 						</a>
-					</li>
+					</li>					
 					<li>
-						<a href="<?php echo get_home_url(); ?>/about-timpview/odd-even-calendar/">
-							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/odd-even-calendar.svg" alt="" />
-							<span>Odd/Even Day Calendar</span>
-						</a>
-					</li>
-					<li>
-						<a href="<?php echo get_home_url(); ?>/about-timpview/all-events-calendar/">
+						<a href="<?php echo get_home_url(); ?>/all-events-calendar/">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/all-events-calendar.svg" alt="" />
 							<span>All Events Calendar</span>
 						</a>
 					</li>
-					<li>
-						<a href="<?php echo get_home_url(); ?>/about-timpview/bell-schedule/">
-							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/bell-schedule.svg" alt="" />
-							<span>Bell Schedule</span>
-						</a>
-					</li>
-
 					<li>
 						<a href="https://www.myschoolbucks.com/">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/pay-meals.svg" alt="" />
@@ -76,15 +61,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="<?php echo get_home_url(); ?>">
-							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/school-map.svg" alt="" />
-							<span>School Map</span>
-						</a>
-					</li>
-					<li>
-						<a href="http://www.infofinderi.com/ifi/?cid=PCSD1CX16HAYK">
+						<a href="<?php echo get_home_url(); ?>/school-information/volunteer-opportunities/">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/bus-routes.svg" alt="" />
-							<span>Bus Routes</span>
+							<span>Volunteer Opportunities</span>
 						</a>
 					</li>
 				</ul>

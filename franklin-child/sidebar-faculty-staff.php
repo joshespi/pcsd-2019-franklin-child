@@ -11,16 +11,16 @@
 	<section>
 		<h1>Teachers by Category</h1>
 			<ul>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#preschool">Preschool</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#kindergarten">Kindergarten</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#first">First Grade</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Second">Second Grade</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Third">Third Grade</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Fourth">Fourth Grade</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Fifth">Fifth Grade</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Sixth">Sixth Grade</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Enrichment">School Enrichment</a></li>
-				<li class="int"><a href="https://sandbox2.provo.edu/faculty-staff/teachers-by-category/#Sped">Special Education</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#preschool">Preschool</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#kindergarten">Kindergarten</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#first">First Grade</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Second">Second Grade</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Third">Third Grade</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Fourth">Fourth Grade</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Fifth">Fifth Grade</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Sixth">Sixth Grade</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Enrichment">School Enrichment</a></li>
+				<li class="int"><a href="<?php echo get_home_url(); ?>/faculty-staff/teachers-by-category/#Sped">Special Education</a></li>
 			</ul>
 	</section>
 </aside>
