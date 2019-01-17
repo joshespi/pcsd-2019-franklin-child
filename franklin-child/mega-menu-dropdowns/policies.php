@@ -1,5 +1,5 @@
 <div class="dropDownColumn">
-					<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Policies</h3>
+					<h3><img src="https://franklin.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Policies</h3>
 						<ul>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3150-Student-Attendance.pdf">3150 Student Attendance</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2017/01/3155-Releasing-Minors-from-School-Attendance.pdf">3155 Releasing Minors from School Attendance</a></li>
@@ -12,7 +12,7 @@
 						</ul>
 				</div>
 				<div class="dropDownColumn">
-					<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Procedures</h3>
+					<h3><img src="https://franklin.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Procedures</h3>
 						<ul>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3150-P1-Elementary-Students.pdf">3150 Procedure 1 Elementary Student Attendance</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3160-P1-Non-Utah-Resident-Students.pdf">3160 Procedure 1 Non-Utah Resident Students</a></li>
@@ -25,7 +25,7 @@
 						</ul>
 				</div>
 				<div class="dropDownColumn">
-					<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/form.svg" alt="" />Forms</h3>
+					<h3><img src="https://franklin.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/form.svg" alt="" />Forms</h3>
 						<ul>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3210-F1-FERPA-OPT-OUT-FORM.pdf">3210 Form 1 Student FERPA</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3320-F1-NOTIFICATION-RECORD-OF-STUDENT-BULLYING-INCIDENT-OR-SUICIDE-THREAT.pdf">3320 Form 1 Bullying Notification</a></li>
