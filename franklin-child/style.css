@@ -11,7 +11,7 @@
  Text Domain:  franklin-child
 
  Color Pallet
- Primary -  blue - #09294d
+ Primary -  blue - #072346
  Secondary - orange - #d6af2f
  Accent Color - Whtie - #ffffff
  
@@ -25,7 +25,7 @@ Fonts
 Theme specific coloring
 ================================================================================================================*/
 #mainSidebar, #mainFooter {
-	background-color: #09294d;
+	background-color: #072346;
 }
 #contentArea {background-color: #d6af2f;}
 a {text-decoration: none;color:#45579c;}
@@ -65,7 +65,7 @@ header styles
 #mainHeader {
     background-image: url('assets/images/header-texture.png');
     background-repeat: no-repeat;
-    background-color: #09294d;
+    background-color: #072346;
      background-size: cover;
  }
 #mainHeader h1 {
@@ -201,7 +201,7 @@ Main Menu
 	padding: 0 4.5%;
 }
 #mainMenu > ul > li > a {
-	color: #09294d;
+	color: #072346;
 }
 #mainMenu > ul > li > a:hover {
 	color: #fff;
@@ -300,7 +300,7 @@ Calendar plugin styling
 #mainSidebar .simcal-default-calendar-list dt.simcal-day-label > span {width: 94%;color: #fff!important;}
 #mainSidebar .simcal-default-calendar-list .simcal-event-details {border-bottom: 1px solid #02365b;}
 #mainSidebar .simcal-default-calendar-list .simcal-event-details .simcal-event-start-date {display: none;}
-.single-page .simcal-day-label {background-color: #09294d!important;}
+.single-page .simcal-day-label {background-color: #072346!important;}
 .single-page .simcal-present div {border: 1px solid #fc7e02!important; }
 .single-page .simcal-present .simcal-day-label {background-color: #d6af2f!important;}
 /*================================================================================================================
@@ -338,6 +338,6 @@ tile coloring
 Teacher access
 ================================================================================================================*/
 #teacherAccess {
-	background-color: #09294d;
+	background-color: #072346;
 	
 }
