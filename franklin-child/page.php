@@ -37,7 +37,7 @@
 	   		} 
 	   		elseif(in_array( 122, get_post_ancestors($post))) {
 		   		get_sidebar( 'policies-forms' );
-	   		} elseif(in_array( 66, get_post_ancestors($post))) {
+	   		} elseif(in_array( 70, get_post_ancestors($post))) {
 		   		get_sidebar( 'faculty-staff' );
 	   		} else {
 		   		get_sidebar( $sidebar );
