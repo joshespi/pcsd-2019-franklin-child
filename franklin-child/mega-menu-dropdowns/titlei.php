@@ -8,6 +8,7 @@
 							<li class="pdf"><a href="https://franklin.provo.edu/wp-content/uploads/2018/11/Franklin-FY19-Needs-Assessment.pdf">Needs Assessment</a></li>
 							<li class="pdf"><a href="https://franklin.provo.edu/wp-content/uploads/2018/11/Franklin-FY19-School-Improvment-Plan.pdf">Title I School Improvement Plan</a></li>
 						</ul>
+						<p>Title I Coordinator: Ta’mera Masson (TameraM@provo.edu)</p>
 				</div>
 				<div class="dropDownColumn">
 					<h3><img src="https://franklin.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Parent Involvement Policy</h3>
@@ -27,6 +28,7 @@
 							<li class="int"><a href="https://franklin.provo.edu/wp-content/uploads/2018/11/11132018-School-Report-Card-16-17.pdf">School Report Card</a></li>
 						
 							<li class="int"><a href="https://franklin.provo.edu/title-i/parents-right-to-know/">Parents Right to Know</a></li>
+							<li class="ext"><a href="https://provo.edu/title-i/">District Title I</a></li>
 							
 						</ul>
 				</div>
