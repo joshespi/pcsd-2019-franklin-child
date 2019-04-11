@@ -23,6 +23,7 @@
             <li class="int"><a href="https://franklin.provo.edu/community-council/">Community Council</a></li>
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
 			<li class="int"><a href="https://franklin.provo.edu/school-information/volunteer-opportunities/">Volunteer Opportunities</a></li>
+			<li class="int"><a href="https://franklin.provo.edu/school-information/get-to-school-safe/">Get To School Safe</a></li>
 		</ul>
 </div>
 <div class="dropDownColumn">
