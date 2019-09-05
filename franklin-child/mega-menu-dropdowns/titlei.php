@@ -8,7 +8,7 @@
 							<li class="pdf"><a href="https://franklin.provo.edu/wp-content/uploads/2018/11/Franklin-FY19-Needs-Assessment.pdf">Needs Assessment</a></li>
 							<li class="pdf"><a href="https://franklin.provo.edu/wp-content/uploads/2018/11/Franklin-FY19-School-Improvment-Plan.pdf">Title I School Improvement Plan</a></li>
 						</ul>
-						<p>Title I Coordinator: Ta’mera Masson (TameraM@provo.edu)</p>
+						<p>Title I Coordinator: Brenda Fuller (BrendaF@provo.edu)</p>
 				</div>
 				<div class="dropDownColumn">
 					<h3><img src="https://franklin.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Parent Involvement Policy</h3>
